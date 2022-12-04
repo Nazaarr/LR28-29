@@ -8,16 +8,16 @@
 
 ![РИСУНОК](https://gspics.org/images/2022/12/03/0XfWMa.png)  
 
-Рисунок 16.1 - Окно Hierarchy  
+Рисунок 28.1 - Окно Hierarchy  
 
 ![РИСУНОК](https://gspics.org/images/2022/12/03/0XfXeQ.png)  
 
-Рисунок 16.2 - Окно Scene  
+Рисунок 28.2 - Окно Scene  
 
 ![РИСУНОК](https://gspics.org/images/2022/12/03/0Xfvix.png)  
 
-Рисунок 16.3 - Окно Game  
+Рисунок 28.3 - Окно Game  
 
 ![РИСУНОК](https://gspics.org/images/2022/12/03/0XfM6w.png)  
 
-Рисунок 16.4 - Окно Inspector объекта GameManager
+Рисунок 28.4 - Окно Inspector объекта GameManager
